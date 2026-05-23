@@ -1,34 +1,7 @@
-/* Use the same font this chat uses */
 body {
-    font-family: serif
-    margin: 0;
-    padding: 0;
-
-    /* Center everything */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-    height: 100vh;
-    text-align: center;
-
-    background-color: #111;
-    color: #f2f2f2;
-}
-
-/* Make links look clean */
-a {
-    color: #4da3ff;
-    text-decoration: none;
-    font-weight: 600;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-/* Optional: nicer spacing */
-h1, h2 {
-    margin: 10px 0;
+  background-color: #f4f4f4;    /* Sets a light gray background */
+  font-family: Arial, sans-serif; /* Sets the default text font */
+  color: #333333;               /* Sets the default text color */
+  margin: 0;                    /* Removes default browser spacing */
+  line-height: 1.6;             /* Improves readability by spacing out lines */
 }
