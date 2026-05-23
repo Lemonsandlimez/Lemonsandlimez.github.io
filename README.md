@@ -1,3 +1,3 @@
-# Lemonsandlimez.github.io
-My Portfolio
-its cool, right?
+# My Portfolio
+
+Check it out [Over here](Lemonsandlimez.github.io)
